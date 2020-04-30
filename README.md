@@ -6,3 +6,17 @@ Google Colab is used for processing while Google Drive is used for storage of da
 Graph visualization of loss, accuracy, and gradients for better understanding of neural network in training.
 
 Hyperparameter optimization is also performed using Tensorboard.
+
+
+
+Tree directory of dataset
+    > train
+        > class 1
+            > image 1
+            > image 2
+            ...
+        > class 2
+            > ...
+        > ...
+    > test
+        > ...
